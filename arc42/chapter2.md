@@ -47,30 +47,55 @@ documentation.
 
 
 
-Architecture Decisions
-Contents
+# Architecture Decisions
 
-Important, expensive, large scale or risky architecture decisions including rationales. With "decisions" we mean selecting one alternative based on given criteria.
+<div class="formalpara-title">
 
-Please use your judgement to decide whether an architectural decision should be documented here in this central section or whether you better document it locally (e.g. within the white box template of one building block).
+**Contents**
 
-Avoid redundancy. Refer to section 4, where you already captured the most important decisions of your architecture.
+</div>
 
-Motivation
+Important, expensive, large scale or risky architecture decisions
+including rationales. With "decisions" we mean selecting one alternative
+based on given criteria.
 
-Stakeholders of your system should be able to comprehend and retrace your decisions.
+Please use your judgement to decide whether an architectural decision
+should be documented here in this central section or whether you better
+document it locally (e.g. within the white box template of one building
+block).
 
-Form
+Avoid redundancy. Refer to section 4, where you already captured the
+most important decisions of your architecture.
+
+<div class="formalpara-title">
+
+**Motivation**
+
+</div>
+
+Stakeholders of your system should be able to comprehend and retrace
+your decisions.
+
+<div class="formalpara-title">
+
+**Form**
+
+</div>
 
 Various options:
 
-ADR (Documenting Architecture Decisions) for every important decision
+-   ADR ([Documenting Architecture
+    Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions))
+    for every important decision
 
-List or table, ordered by importance and consequences or:
+-   List or table, ordered by importance and consequences or:
 
-more detailed in form of separate sections per decision
+-   more detailed in form of separate sections per decision
 
-See Architecture Decisions in the arc42 documentation. There you will find links and examples about ADR.
+See [Architecture Decisions](https://docs.arc42.org/section-9/) in the
+arc42 documentation. There you will find links and examples about ADR.
+
+<div style="page-break-after: always;"></div>
 
 
 
