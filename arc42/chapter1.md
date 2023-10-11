@@ -6,7 +6,7 @@ Describes the relevant requirements and the driving forces that software
 architects and development team must consider. These include
 
 -   underlying business goals,
-marvkos
+
 -   essential features,
 
 -   essential functional requirements,
