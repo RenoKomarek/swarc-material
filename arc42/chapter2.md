@@ -6,20 +6,20 @@
 
 </div>
 
-1. Image Editing and Sharing Service
+Image Editing and Sharing Service
 
 -    Implement a custom image editing and sharing service.
     Utilize microservices to enable the easy addition of new filters and photo functions.
     Ensure professional image editing capabilities with extensibility.Develop and manage the service in-house.
 
-2. Third-party Integration
+Third-party Integration
 
 -    Integrate cloud-based third-party software.
     Follow a Service-Oriented Architecture (SOA) approach.
     Seamlessly integrate with a partner's services while remaining open for third-party service integration.    
     Collaborate with a partner for plugin/microservice development.
 
-3. User-generated Challenges and Competitions
+User-generated Challenges and Competitions
 
 -    Implement a microservice-based approach.
     Create a central challenge creation service and additional services for challenge validation.
