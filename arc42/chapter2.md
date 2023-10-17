@@ -103,8 +103,16 @@ arc42 documentation. There you will find links and examples about ADR.
 
 </div>
 
-A list of identified technical risks or technical debts, ordered by
-priority
+1. Complexity
+-    The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
+
+2. Datenmanagement
+-    The influx of inconsistent data poses challenges in terms of organization and distribution. Ensuring the consistency and accuracy of data across the system becomes a complex task. Failure to manage data effectively can lead to data quality issues, potentially impacting decision-making and system performance.
+
+3. Security
+-    Implementing security measures in each Microservice incurs significant costs. Additionally, securing sensitive data across multiple services is both cost and time-intensive. 
+
+
 
 <div class="formalpara-title">
 
