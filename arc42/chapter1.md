@@ -23,10 +23,19 @@ architects and development team must consider. These include
 
 </div>
 
-Short description of the functional requirements, driving forces,
-extract (or abstract) of requirements. Link to (hopefully existing)
-requirements documents (with version number and information where to
-find it).
+Finstergram is a image sharing app with focus on professional photography.
+The five most important functional requirements are:
+
+-   Image sharing and navigation
+
+-   Image editing and custom filter creation
+
+-   Community challenges, competitions and activities
+
+-   Third-party integration of popular image editing software
+
+-   Paid subscription model
+
 
 <div class="formalpara-title">
 
@@ -34,8 +43,8 @@ find it).
 
 </div>
 
-From the point of view of the end users a system is created or modified
-to improve support of a business activity and/or improve the quality.
+Finstergram offers an opportunity to share and create quality images with high resolution
+for a niche market of photography enthusiasts and professionals.
 
 <div class="formalpara-title">
 
@@ -55,84 +64,26 @@ arc42 documentation.
 
 ## Quality Goals
 
-<div class="formalpara-title">
+The three most important quality goals are:
 
-**Contents**
-
-</div>
-
-The top three (max five) quality goals for the architecture whose
-fulfillment is of highest importance to the major stakeholders. We
-really mean quality goals for the architecture. Don’t confuse them with
-project goals. They are not necessarily identical.
-
-Consider this overview of potential topics (based upon the ISO 25010
-standard):
-
-![Categories of Quality
-Requirements](images/01_2_iso-25010-topics-EN.drawio.png)
-
-<div class="formalpara-title">
-
-**Motivation**
-
-</div>
-
-You should know the quality goals of your most important stakeholders,
-since they will influence fundamental architectural decisions. Make sure
-to be very concrete about these qualities, avoid buzzwords. If you as an
-architect do not know how the quality of your work will be judged…
-
-<div class="formalpara-title">
-
-**Form**
-
-</div>
-
-A table with quality goals and concrete scenarios, ordered by priorities
+| Priority | Quality                | Motivation                                                                                                            |
+|----------|------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 1        | High resolution images | The quality of the images is important in order to differentiate from the competition and satisfy the target audience |
+| 2        | Performance            | Every process executed by the end-user should be fast enough to match the current standard                            |
+| 3        | Compatibility          | The application should perform well on every type of device                                                           |
 
 ## Stakeholders
 
-<div class="formalpara-title">
+The five most important stakeholders of the system are:
 
-**Contents**
+| Role/Name     | Contact                 | Expectations                                                      |
+|---------------|-------------------------|-------------------------------------------------------------------|
+| End-user      | end-user@email.com      | They want a place to share and edit images with likeminded people |
+| Influencer    | influencer@email.com    | They want to earn money                                           |
+| Administrator | administrator@email.com | They want an easy to maintain, update and administrate system     |
+| Investor      | investor@email.com      | They want the platform to make profit                             |
+| Product owner | product-owner@email.com | They want the platform to grow and make profit                    |        
 
-</div>
 
-Explicit overview of stakeholders of the system, i.e. all person, roles
-or organizations that
 
--   should know the architecture
 
--   have to be convinced of the architecture
-
--   have to work with the architecture or with code
-
--   need the documentation of the architecture for their work
-
--   have to come up with decisions about the system or its development
-
-<div class="formalpara-title">
-
-**Motivation**
-
-</div>
-
-You should know all parties involved in development of the system or
-affected by the system. Otherwise, you may get nasty surprises later in
-the development process. These stakeholders determine the extent and the
-level of detail of your work and its results.
-
-<div class="formalpara-title">
-
-**Form**
-
-</div>
-
-Table with role names, person names, and their expectations with respect
-to the architecture and its documentation.
-
-| Role/Name   | Contact        | Expectations       |
-|-------------|----------------|--------------------|
-| *\<Role-1>* | *\<Contact-1>* | *\<Expectation-1>* |
-| *\<Role-2>* | *\<Contact-2>* | *\<Expectation-2>* |
