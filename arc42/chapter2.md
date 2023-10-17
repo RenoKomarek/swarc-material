@@ -6,18 +6,25 @@
 
 </div>
 
-A short summary and explanation of the fundamental decisions and
-solution strategies, that shape system architecture. It includes
+1. Image Editing and Sharing Service
 
--   technology decisions
+-    Implement a custom image editing and sharing service.
+    Utilize microservices to enable the easy addition of new filters and photo functions.
+    Ensure professional image editing capabilities with extensibility.Develop and manage the service in-house.
 
--   decisions about the top-level decomposition of the system, e.g.
-    usage of an architectural pattern or design pattern
+2. Third-party Integration
 
--   decisions on how to achieve key quality goals
+-    Integrate cloud-based third-party software.
+    Follow a Service-Oriented Architecture (SOA) approach.
+    Seamlessly integrate with a partner's services while remaining open for third-party service integration.    
+    Collaborate with a partner for plugin/microservice development.
 
--   relevant organizational decisions, e.g. selecting a development
-    process or delegating certain tasks to third parties.
+3. User-generated Challenges and Competitions
+
+-    Implement a microservice-based approach.
+    Create a central challenge creation service and additional services for challenge validation.
+    Facilitate user-generated challenges, competitions, and feeds.
+    Maintain and develop the microservices for challenge management.
 
 <div class="formalpara-title">
 
@@ -25,9 +32,8 @@ solution strategies, that shape system architecture. It includes
 
 </div>
 
-These decisions form the cornerstones for your architecture. They are
-the foundation for many other detailed decisions or implementation
-rules.
+These architectural decisions are foundational to the overall system design.
+They are key to addressing specific problem statements, achieving quality goals, and adhering to constraints.
 
 <div class="formalpara-title">
 
