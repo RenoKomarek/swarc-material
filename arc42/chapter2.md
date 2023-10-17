@@ -92,7 +92,7 @@ arc42 documentation. There you will find links and examples about ADR.
 1. Complexity
 -    The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
 
-2. Datenmanagement
+2. Data Management
 -    The influx of inconsistent data poses challenges in terms of organization and distribution. Ensuring the consistency and accuracy of data across the system becomes a complex task. Failure to manage data effectively can lead to data quality issues, potentially impacting decision-making and system performance.
 
 3. Security
@@ -114,14 +114,3 @@ risks and technical debts in the architecture, which will be needed by
 management stakeholders (e.g. project managers, product owners) as part
 of the overall risk analysis and measurement planning.
 
-<div class="formalpara-title">
-
-**Form**
-
-</div>
-
-List of risks and/or technical debts, probably including suggested
-measures to minimize, mitigate or avoid risks or reduce technical debts.
-
-See [Risks and Technical Debt](https://docs.arc42.org/section-11/) in
-the arc42 documentation.
