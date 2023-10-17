@@ -37,20 +37,6 @@ They are key to addressing specific problem statements, achieving quality goals,
 
 <div class="formalpara-title">
 
-**Form**
-
-</div>
-
-Keep the explanations of such key decisions short.
-
-Motivate what was decided and why it was decided that way, based upon
-problem statement, quality goals and key constraints. Refer to details
-in the following sections.
-
-See [Solution Strategy](https://docs.arc42.org/section-4/) in the arc42
-documentation.
-
-
 
 
 # Architecture Decisions
