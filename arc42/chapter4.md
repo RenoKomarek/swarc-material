@@ -2,6 +2,9 @@
 
 <div class="formalpara-title">
 
+
+The three most important cross-cutting concepts are:
+
 - Development concept
 
     Developers should name Variables etc. after a strict concept/pattern/system to ensure consistency across Services
@@ -21,6 +24,9 @@
 # Architecture Decisions
 
 <div class="formalpara-title">
+
+
+The three most important architectural decisions are:
 
 | Context                                                                                      | Decision                                       | Consequences                                                                                                                                                                  |
 |----------------------------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
