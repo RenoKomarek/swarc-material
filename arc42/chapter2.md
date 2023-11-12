@@ -13,7 +13,7 @@ The three most important goals and their architectural approaches are:
 | User-generated Challenges and Competitions      | Microservices - A central challenge creation service and additional services for challenge validation. Facilitates user-generated challenges, competitions, and feeds. |
 
 
-# Architecture Decisions
+# Fundamental Decisions
 
 <div class="formalpara-title">
 
