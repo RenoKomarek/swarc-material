@@ -2,26 +2,9 @@
 
 # Introduction and Goals
 
-Describes the relevant requirements and the driving forces that software
-architects and development team must consider. These include
-
--   underlying business goals,
-
--   essential features,
-
--   essential functional requirements,
-
--   quality goals for the architecture and
-
--   relevant stakeholders and their expectations
-
 ## Requirements Overview
 
 <div class="formalpara-title">
-
-**Contents**
-
-</div>
 
 Finstergram is a image sharing app with focus on professional photography.
 The five most important functional requirements are:
@@ -38,29 +21,6 @@ The five most important functional requirements are:
 
 
 <div class="formalpara-title">
-
-**Motivation**
-
-</div>
-
-Finstergram offers an opportunity to share and create quality images with high resolution
-for a niche market of photography enthusiasts and professionals.
-
-<div class="formalpara-title">
-
-**Form**
-
-</div>
-
-Short textual description, probably in tabular use-case format. If
-requirements documents exist this overview should refer to these
-documents.
-
-Keep these excerpts as short as possible. Balance readability of this
-document with potential redundancy w.r.t to requirements documents.
-
-See [Introduction and Goals](https://docs.arc42.org/section-1/) in the
-arc42 documentation.
 
 ## Quality Goals
 
