@@ -67,48 +67,17 @@ following section.
 
 <div class="formalpara-title">
 
-**Contents**
+Three quality scenarios:
 
-</div>
+- Performance
+    Scenario: A user wants to upload a picture under normal operations. The picture is uploaded within 2 Seconds.
+  
+- Recoverability
+    Scenario: A user wants to edit a picture and the server closes. All changes are saved in time.
 
-Concretization of (sometimes vague or implicit) quality requirements
-using (quality) scenarios.
+- Security
+    Scenario: A user logs in with a different IP-address. The report is sent within 30 seconds.
 
-These scenarios describe what should happen when a stimulus arrives at
-the system.
 
-For architects, two kinds of scenarios are important:
-
--   Usage scenarios (also called application scenarios or use case
-    scenarios) describe the system’s runtime reaction to a certain
-    stimulus. This also includes scenarios that describe the system’s
-    efficiency or performance. Example: The system reacts to a user’s
-    request within one second.
-
--   Change scenarios describe a modification of the system or of its
-    immediate environment. Example: Additional functionality is
-    implemented or requirements for a quality attribute change.
-
-<div class="formalpara-title">
-
-**Motivation**
-
-</div>
-
-Scenarios make quality requirements concrete and allow to more easily
-measure or decide whether they are fulfilled.
-
-Especially when you want to assess your architecture using methods like
-ATAM you need to describe your quality goals (from section 1.2) more
-precisely down to a level of scenarios that can be discussed and
-evaluated.
-
-<div class="formalpara-title">
-
-**Form**
-
-</div>
-
-Tabular or free form text.
 
 <div style="page-break-after: always;"></div>
