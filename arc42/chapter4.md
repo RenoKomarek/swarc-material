@@ -2,17 +2,17 @@
 
 <div class="formalpara-title">
 
-## *Development concept*
+- Development concept
 
-*Developers should name Variables etc. after a strict concept/pattern/system to ensure consistency across Services*
+    Developers should name Variables etc. after a strict concept/pattern/system to ensure consistency across Services
 
-## *Organizational concept*
+- Organizational concept
 
-*The backup-server runs at reduced speed during maintenance of the main-servers to enusure stability*
+    The backup-server runs at reduced speed during maintenance of the main-servers to enusure stability
 
-## *Security concept*
+- Security concept
 
-*Passwords are stored with encryption via a hashcode converting system from an external library to ensure security*
+    Passwords are stored with encryption via a hashcode converting system from an external library to ensure security
 
 <div style="page-break-after: always;"></div>
 
