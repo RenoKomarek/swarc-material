@@ -2,8 +2,6 @@
 
 <div class="formalpara-title">
 
-**Contents**
-
 </div>
 
 Image Editing and Sharing Service
@@ -32,18 +30,9 @@ User-generated Challenges and Competitions
 
 </div>
 
-These architectural decisions are foundational to the overall system design.
-They are key to addressing specific problem statements, achieving quality goals, and adhering to constraints.
-
-<div class="formalpara-title">
-
-
-
 # Architecture Decisions
 
 <div class="formalpara-title">
-
-**Contents**
 
 Maintenance of Microservices Architecture
 
@@ -64,28 +53,9 @@ Considering SOA for Performance Enhancement
 
 <div class="formalpara-title">
 
-**Motivation**
-
-</div>
-
-Stakeholders of your system should be able to comprehend and retrace
-your decisions.
-
-<div class="formalpara-title">
-
-See [Architecture Decisions](https://docs.arc42.org/section-9/) in the
-arc42 documentation. There you will find links and examples about ADR.
-
-<div style="page-break-after: always;"></div>
-
-
-
-
 # Risks and Technical Debts
 
 <div class="formalpara-title">
-
-**Contents**
 
 </div>
 
@@ -102,15 +72,4 @@ arc42 documentation. There you will find links and examples about ADR.
 
 <div class="formalpara-title">
 
-**Motivation**
-
-</div>
-
-“Risk management is project management for grown-ups” (Tim Lister,
-Atlantic Systems Guild.)
-
-This should be your motto for systematic detection and evaluation of
-risks and technical debts in the architecture, which will be needed by
-management stakeholders (e.g. project managers, product owners) as part
-of the overall risk analysis and measurement planning.
 
