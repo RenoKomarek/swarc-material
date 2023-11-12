@@ -19,7 +19,7 @@ The three most important goals and their architectural approaches are:
 
 We have opted to maintain our Microservices architecture. Microservices offer agility and flexibility, allowing us to respond quickly to evolving requirements and reducing the complexity associated with a monolithic architecture.
 
-Three important architectural decisions are:
+The three most important fundamental decisions are:
 
 | Problem                                                           | Considered Alternatives                       | Decision                                                                                                |
 |-------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
