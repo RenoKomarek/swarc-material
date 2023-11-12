@@ -4,47 +4,28 @@
 
 </div>
 
-Image Editing and Sharing Service
+The three most important goals and their architectural approaches are:
 
--    Implement a custom image editing and sharing service.
-    Utilize microservices to enable the easy addition of new filters and photo functions.
-    Ensure professional image editing capabilities with extensibility.Develop and manage the service in-house.
+| Goal/Requirements                               | Architectural Approach                                                                                                                                                 |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Image Editing and Sharing                       | Microservices - Enables the easy addition of new filters and photo functions. Ensures professional image editing capabilities with extensibility.                      |
+| Third-party Integration of cloud-based software | Service-Oriented Architecture (SOA) - Seamless integration of a service, developed by the partner.                                                                     |
+| User-generated Challenges and Competitions      | Microservices - A central challenge creation service and additional services for challenge validation. Facilitates user-generated challenges, competitions, and feeds. |
 
-Third-party Integration
-
--    Integrate cloud-based third-party software.
-    Follow a Service-Oriented Architecture (SOA) approach.
-    Seamlessly integrate with a partner's services while remaining open for third-party service integration.    
-    Collaborate with a partner for plugin/microservice development.
-
-User-generated Challenges and Competitions
-
--    Implement a microservice-based approach.
-    Create a central challenge creation service and additional services for challenge validation.
-    Facilitate user-generated challenges, competitions, and feeds.
-    Maintain and develop the microservices for challenge management.
-
-<div class="formalpara-title">
-
-**Motivation**
-
-</div>
 
 # Architecture Decisions
 
 <div class="formalpara-title">
 
-Maintenance of Microservices Architecture
+We have opted to maintain our Microservices architecture. Microservices offer agility and flexibility, allowing us to respond quickly to evolving requirements and reducing the complexity associated with a monolithic architecture.
 
-- Despite performance concerns, we have opted to maintain our Microservices architecture. Microservices offer agility and flexibility, allowing us to respond quickly to evolving requirements and reducing the complexity associated with a monolithic architecture.
+Three important architectural decisions are:
 
-Implementation of a Control Service with AI Capabilities
-
--    We have chosen to create a "Control Service" with AI capabilities to enhance the management and control of our services. This decision enables us to leverage AI for intelligent decision-making and automation, contributing to more efficient operations.
-
-Considering SOA for Performance Enhancement
-
--    In recognition of performance concerns associated with Microservices, we acknowledge the potential benefits of Service-Oriented Architecture (SOA) in optimizing performance. As an international company with ample resources, we are open to exploring the transition to SOA to meet demanding performance requirements when necessary
+| Problem                                                           | Considered Alternatives                       | Decision                                                                                                |
+|-------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| A microservice is necessary for a new challenge                   | Adapt old microservice for new challenges     | We chose to create a new microservice for every new challenge, to be able to reactivate old challenges. |
+| If every filter has its own microservice, they are too dependent  | Do not give every filter its own microservice | Filtering is a single microservice and all filters are saved in a database                              |
+| Testing is complex, because every single service has to be tested | With SOA, there would be less testing expense | Because we do not have liquidity problems, we stay with microservices                                   |
 
 
 </div>
@@ -59,14 +40,18 @@ Considering SOA for Performance Enhancement
 
 </div>
 
-1. Complexity
--    The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
+The three most important risks/technical depts are:
 
-2. Data Management
--    The influx of inconsistent data poses challenges in terms of organization and distribution. Ensuring the consistency and accuracy of data across the system becomes a complex task. Failure to manage data effectively can lead to data quality issues, potentially impacting decision-making and system performance.
 
-3. Security
--    Implementing security measures in each Microservice incurs significant costs. Additionally, securing sensitive data across multiple services is both cost and time-intensive. 
+
+- Data Management
+ The influx of inconsistent data poses challenges in terms of organization and distribution. Ensuring the consistency and accuracy of data across the system becomes a complex task. Failure to manage data effectively can lead to data quality issues, potentially impacting decision-making and system performance.
+
+- Security
+  Implementing security measures in each Microservice incurs significant costs. Additionally, securing sensitive data across multiple services is both cost and time-intensive.
+
+- Complexity
+ The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
 
 
 
