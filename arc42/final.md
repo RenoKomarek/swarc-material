@@ -1,4 +1,5 @@
 <div style="page-break-after: always;"></div>
+
 # Introduction and Goals
 
 ## Requirements Overview
@@ -44,6 +45,7 @@ The five most important stakeholders of the system are:
 | Product owner | product-owner@email.com | They want the platform to grow and make profit                    |        
 
 <div style="page-break-after: always;"></div>
+
 # Architecture Constraints
 | Constraints           | Background and/or motivation                                                                            |
 |-----------------------|---------------------------------------------------------------------------------------------------------|
@@ -267,7 +269,6 @@ The three most important cross-cutting concepts are:
 
 # Architecture Decisions
 
-<div class="formalpara-title">
 
 
 The three most important architectural decisions are:
@@ -332,7 +333,7 @@ The three most important risks/technical depts are:
 
 # Glossary
 
-<div class="formalpara-title">
+
 
 **Contents**
 
@@ -344,7 +345,7 @@ when discussing the system.
 You can also see the glossary as source for translations if you work in
 multi-language teams.
 
-<div class="formalpara-title">
+
 
 **Motivation**
 
