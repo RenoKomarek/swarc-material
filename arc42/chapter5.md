@@ -6,7 +6,7 @@
 
 
 
-![alt text](https://github.com/RenoKomarek/swarc-material/blob/e9cd733ca854e910d6df7e5308a8b03277812c9c/arc42/images/Bild1.png)
+![alt text](images/Bild1.png)
 
 
 ## Quality Scenarios
