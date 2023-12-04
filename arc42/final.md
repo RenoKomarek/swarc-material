@@ -1,4 +1,4 @@
-
+<div style="page-break-after: always;"></div>
 # Introduction and Goals
 
 ## Requirements Overview
@@ -43,7 +43,7 @@ The five most important stakeholders of the system are:
 | Investor      | investor@email.com      | They want the platform to make profit                             |
 | Product owner | product-owner@email.com | They want the platform to grow and make profit                    |        
 
-
+<div style="page-break-after: always;"></div>
 # Architecture Constraints
 | Constraints           | Background and/or motivation                                                                            |
 |-----------------------|---------------------------------------------------------------------------------------------------------|
@@ -53,12 +53,13 @@ The five most important stakeholders of the system are:
 | Testing               | Testing across multiple microservices poses a challenge in ensuring a complete test coverage            |
 | Team Adaption         | A microservices architecture often requires new skills and enhanced teamwork among the development team |
 
-<div style="page-break-after: always;"></div>
 
 # System Scope and Context
 ## Business Context Diagram
 ![alt text](images/businesscontext.png)
 
+
+<div style="page-break-after: always;"></div>
 
 # Solution Strategy
 
@@ -99,22 +100,26 @@ The three most important fundamental decisions are:
 
 ## Level 1
 ![alt text](images/level1newnew.png)
-<br/><br/>
+
+<div style="page-break-after: always;"></div>
+
 ## Level 2 Image Processing
 ![alt text](images/level2.png)
 
-<div style="page-break-after: always;"></div>
+
 
 
 ## Level 2 Content Management
 ![alt text](images/level2other.png)
 
-
+<div style="page-break-after: always;"></div>
 
 # Runtime View
 
 ## Runtime Scenario: Upload Image
 ![alt text](images/sequence1.png)
+
+
 
 
 <div style="page-break-after: always;"></div>
@@ -240,7 +245,6 @@ Please copy the structure from level 1 for each selected element.
 
 # Cross-cutting Concepts
 
-<div class="formalpara-title">
 
 
 The three most important cross-cutting concepts are:
@@ -257,7 +261,7 @@ The three most important cross-cutting concepts are:
 
     Passwords are stored with encryption via a hashcode converting system from an external library to ensure security
 
-<div style="page-break-after: always;"></div>
+
 
                               
 
@@ -304,7 +308,7 @@ Three quality scenarios are:
     Scenario: A user logs in with a different IP-address. The report is sent within 30 seconds.
 
 
-<div style="page-break-after: always;"></div>
+
 
 # Risks and Technical Debts
 
