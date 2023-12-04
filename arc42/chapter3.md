@@ -11,4 +11,4 @@
 
 # System Scope and Context
 ## Business Context Diagram
-![alt text](images/businesscontext.PNG)
+![alt text](images/businesscontext.png)
