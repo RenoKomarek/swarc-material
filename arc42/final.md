@@ -1,4 +1,3 @@
-<div style="page-break-after: always;"></div>
 
 # Introduction and Goals
 
@@ -54,7 +53,7 @@ The five most important stakeholders of the system are:
 | Testing               | Testing across multiple microservices poses a challenge in ensuring a complete test coverage            |
 | Team Adaption         | A microservices architecture often requires new skills and enhanced teamwork among the development team |
 
-
+<div style="page-break-after: always;"></div>
 
 # System Scope and Context
 ## Business Context Diagram
@@ -92,7 +91,7 @@ The three most important fundamental decisions are:
 
 
 
-
+<div style="page-break-after: always;"></div>
 
 
 # Building Block View
@@ -104,7 +103,9 @@ The three most important fundamental decisions are:
 ## Level 2 Image Processing
 ![alt text](images/level2.png)
 
-<br/><br/>
+<div style="page-break-after: always;"></div>
+
+
 ## Level 2 Content Management
 ![alt text](images/level2other.png)
 
@@ -114,7 +115,9 @@ The three most important fundamental decisions are:
 
 ## Runtime Scenario: Upload Image
 ![alt text](images/sequence1.png)
-<br><br>
+
+
+<div style="page-break-after: always;"></div>
 
 ## Runtime Scenario: Edit Image
 ![alt text](images/sequence2.png)
@@ -301,7 +304,7 @@ Three quality scenarios are:
     Scenario: A user logs in with a different IP-address. The report is sent within 30 seconds.
 
 
-
+<div style="page-break-after: always;"></div>
 
 # Risks and Technical Debts
 
@@ -320,6 +323,8 @@ The three most important risks/technical depts are:
 - Complexity
  The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
 
+
+<div style="page-break-after: always;"></div>
 
 # Glossary
 
