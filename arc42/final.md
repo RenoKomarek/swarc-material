@@ -186,7 +186,8 @@ The three most important fundamental decisions are:
 
 This building-block-diagram on level 1 provides a structured depiction of the key building blocks and their interrelationships of the system. It offers a high-level overview of the major components within the system.
 
-<br/><br/>
+<div style="page-break-after: always;"></div>
+
 ## Level 2 Image Processing
 ![alt text](images/level2new.png)
 
