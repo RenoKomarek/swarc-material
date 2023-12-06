@@ -58,7 +58,7 @@ The five most important stakeholders of the system are:
 
 # System Scope and Context
 ## Business Context Diagram
-![alt text](images/businesscontext.png)
+![alt text](images/businesscontextneu.png)
 
 
 <div style="page-break-after: always;"></div>
@@ -101,25 +101,25 @@ The three most important fundamental decisions are:
 
 
 ## Level 1
-![alt text](images/level1newnew.png)
+![alt text](images/level1newnewnew.png)
 
 <div style="page-break-after: always;"></div>
 
 ## Level 2 Image Processing
-![alt text](images/level2.png)
+![alt text](images/level2new.png)
 
 
 
 
 ## Level 2 Content Management
-![alt text](images/level2other.png)
+![alt text](images/level2othernew.png)
 
 <div style="page-break-after: always;"></div>
 
 # Runtime View
 
 ## Runtime Scenario: Upload Image
-![alt text](images/sequence1.png)
+![alt text](images/sequence1new.png)
 
 
 
@@ -127,7 +127,7 @@ The three most important fundamental decisions are:
 <div style="page-break-after: always;"></div>
 
 ## Runtime Scenario: Edit Image
-![alt text](images/sequence2.png)
+![alt text](images/sequence2new.png)
 
 
 
