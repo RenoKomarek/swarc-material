@@ -15,3 +15,5 @@ The five most important architectural constraints are:
 # System Scope and Context
 ## Business Context Diagram
 ![alt text](images/businesscontextneu.png)
+
+This business context diagram gives a high level overwiev of the system and shows which data are exchanged with the environment. The primary actors and external systems are visualized here.
