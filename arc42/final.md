@@ -193,7 +193,6 @@ This building-block-diagram on level 1 provides a structured depiction of the ke
 
 This building-block-diagram on level 2 presents a more detailed perspective of the Image Processing-Component, showcasing their internal structure and relationships.
 
-<br/><br/>
 ## Level 2 Content Management
 ![alt text](images/level2othernew.png)
 
