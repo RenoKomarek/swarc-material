@@ -10,7 +10,7 @@ Benjamin Bendinger, <br><br>
 Jan Philip Schreiber
 
 
-# Business Requirements Document (BRD): Image Sharing App - Finstergram - An international company
+# Business Requirements Document (BRD) of Finstergram (Image Sharing App) - An international company
 
 1. Introduction
 The purpose of this BRD is to outline the business requirements for an image sharing app targeting photography enthusiasts and professionals. The app will allow users to share and discover high-quality, visually stunning images that are not found on other social media platforms. The app will differentiate itself from competitors by offering advanced editing tools, customizable filters, and a strong community aspect.
