@@ -123,6 +123,9 @@ The five most important stakeholders of the system are:
 <div style="page-break-after: always;"></div>
 
 # Architecture Constraints
+
+The five most important architectural constraints are:
+
 | Constraints           | Background and/or motivation                                                                            |
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | Integration           | Careful coordination is required in order to ensure, that the microservices do not impact each other    |
