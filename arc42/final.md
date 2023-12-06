@@ -407,40 +407,18 @@ The three most important risks/technical depts are:
 
 <div style="page-break-after: always;"></div>
 
+
 # Glossary
 
+| Term                   | Definition                                                                                |
+|------------------------|-------------------------------------------------------------------------------------------|
+| Finstergram            | The title identifying this image sharing application                                      |
+| Github                 | A web-based platform for collaborative software development and version control using Git |
+| Image                  | A picture, that the user can edit, upload, and find on Finstergram                        |
+| Image sharing          | Sharing images with other users on Finstergram                                            |
+| Image upload           | Transferring an image file to a remote server for storage and sharing on Finstergram      |
+| Image navigation       | Browsing or moving through images within the user interface on Finstergram                |
+| Image editing          | Modifying images to enhance or alter their appearance                                     |
+| Filter                 | Visual effects applied to an image to change their appearance                             |
+| Image editing software | Applications for modifying and enhancing images                                           |
 
-
-**Contents**
-
-</div>
-
-The most important domain and technical terms that your stakeholders use
-when discussing the system.
-
-You can also see the glossary as source for translations if you work in
-multi-language teams.
-
-
-
-**Motivation**
-
-</div>
-
-You should clearly define your terms, so that all stakeholders
-
--   have an identical understanding of these terms
-
--   do not use synonyms and homonyms
-
-A table with columns \<Term> and \<Definition>.
-
-Potentially more columns in case you need translations.
-
-See [Glossary](https://docs.arc42.org/section-12/) in the arc42
-documentation.
-
-| Term        | Definition        |
-|-------------|-------------------|
-| *\<Term-1>* | *\<definition-1>* |
-| *\<Term-2>* | *\<definition-2>* |
