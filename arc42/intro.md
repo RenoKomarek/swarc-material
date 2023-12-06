@@ -4,11 +4,13 @@ https://github.com/RenoKomarek/swarc-material
 
 # Project-Team: 
 
-Project-Team: Reno Komarek, Mert Sali, 
+Reno Komarek,<br><br>
+Mert Sali, <br><br>
+Benjamin Bendinger, <br><br>
+Jan Philip Schreiber
 
 
-
-Business Requirements Document (BRD) - Image Sharing App
+# Business Requirements Document (BRD): Image Sharing App - Finstergram - An international company
 
 1. Introduction
 The purpose of this BRD is to outline the business requirements for an image sharing app targeting photography enthusiasts and professionals. The app will allow users to share and discover high-quality, visually stunning images that are not found on other social media platforms. The app will differentiate itself from competitors by offering advanced editing tools, customizable filters, and a strong community aspect.
