@@ -14,3 +14,4 @@ On the other hand, Consistency (C) could guarantee that every user has the same 
 
 ## Deployment-Diagram
 
+![alt text](images/deployment.png)
