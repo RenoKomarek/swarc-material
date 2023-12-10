@@ -2,6 +2,8 @@
 
 In the context of Quality Requirements, we utilize the frameworks of the Quality Tree and Quality Scenarios to analyze system attributes.
 
+The quality requirements section sets the standards and criteria for evaluating the system's performance, reliability, security, and other essential aspects.
+
 ## Quality Tree
 
 <div class="formalpara-title">
