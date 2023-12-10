@@ -232,7 +232,7 @@ On the other hand, Consistency (C) could guarantee that every user has the same 
 
 ## Deployment-Diagram
 
-![alt text](images/deploymentv3.png)
+![alt text](images/deploymentv4.png)
 
 This deployment-view-diagram describes the technical infrastructure of finstergram. Users communicate via client devices with the internet. A web server hosts the app's interface, while an application server manages its functions. The application server also interfaces with third-party integrations like Pixlr. A Amazon S3 Cloud Storage stores imagse and user data.
 
