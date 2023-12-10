@@ -1,6 +1,6 @@
 # Building Block View
 
-In this section, we present a comprehensive Building Block View illuminating the foundational components crucial to the development and functionality of Finstagram 
+The Building Block View provides insight into the foundational components that are crucial to the development and functionality of Finstagram.
 
 ## Level 1
 ![alt text](images/level1finalnew.png)
