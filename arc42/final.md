@@ -287,6 +287,8 @@ The three most important architectural decisions are:
 
 # Quality Requirements
 
+The quality requirements section sets the standards and criteria for evaluating the system's performance, reliability, security, and other system atributes, utilizing the frameworks "Quality Tree" and "Quality Scenarios".
+
 ## Quality Tree
 
 
