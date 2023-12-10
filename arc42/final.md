@@ -221,7 +221,7 @@ This runtime-view-diagram illustrates the dynamic aspects of the Edit Image-Proc
 ## Runtime Scenario: Upload Image
 ![alt text](images/sequence1new.png)
 
-This runtime-view-diagram illustrates the dynamic aspects of the Upload Image-Process. It showcases how the components interact and collaborate at runtime. Here a user wants to upload an image to Finstergram.
+This runtime-view-diagram illustrates the dynamic aspects of the Upload Image-Process. It showcases how the components interact and collaborate at runtime. Here a user wants to upload an image either edited or not edited to Finstergram.
 
 <div style="page-break-after: always;"></div>
 
