@@ -1,7 +1,7 @@
 <div style="page-break-after: always;"></div>
 
 # Introduction and Goals
-Welcome to the Finstagram runtime view, a pivotal aspect of our social media platform dedicated to high-resolution image sharing and dynamic content creation. In this runtime perspective, we delve into the core functionalities of image editing and uploading that define the essence of Finstagram.
+Finstagram is a social media platform dedicated to high-resolution image sharing and dynamic content creation.
 ## Requirements Overview
 
 <div class="formalpara-title">
