@@ -225,6 +225,8 @@ This runtime-view-diagram illustrates the dynamic aspects of the Upload Image-Pr
 
 # Deployment View
 
+The deployment section outlines the strategy and procedures for introducing the system into its operational environment.
+
 ## CAP
 
 The CAP theorem tells us that a distributed system can only provide two of the three desired properties: Consistency, Availability and Partition Tolerance.
