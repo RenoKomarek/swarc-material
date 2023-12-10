@@ -264,7 +264,7 @@ Three important cross-cutting concepts are:
 
 - Organizational concept
 
-    The backup-server runs at reduced speed during maintenance of the main-servers to enusure stability
+    The backup-server runs at reduced speed/capacity during maintenance of the main-servers to enusure stability
 
 - Security concept
 
