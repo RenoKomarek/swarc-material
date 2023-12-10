@@ -256,7 +256,7 @@ This deployment-view-diagram describes the technical infrastructure of Finstergr
 
 
 
-The three most important cross-cutting concepts are:
+Three important cross-cutting concepts are:
 
 - Development concept
 
