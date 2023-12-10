@@ -185,6 +185,8 @@ The three most important fundamental decisions are:
 
 # Building Block View
 
+The Building Block View provides insight into the foundational components crucial for the development and functionality of Finstagram. In Level 1, we showcase the core functionalities of Finstagram and delve into more details for 'Image Processing' and 'Content Management'.
+
 
 ## Level 1
 ![alt text](images/level1finalnew.png)
