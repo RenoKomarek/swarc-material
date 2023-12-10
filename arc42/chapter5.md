@@ -1,5 +1,7 @@
 # Quality Requirements
 
+In the context of Quality Requirements, we utilize the frameworks of the Quality Tree and Quality Scenarios to analyze system attributes.
+
 ## Quality Tree
 
 <div class="formalpara-title">
