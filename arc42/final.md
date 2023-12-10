@@ -239,7 +239,9 @@ Availability (A) is crucial because it ensures that Finstergram is consistently 
 <br><br>
 Partition Tolerance (P) is important because it gives Finstergram the ability to operate and function effectively despite potential network issues or partitions. It ensures that even if certain parts of the system cannot communicate with each other temporarily because of hardware failures, communication delays, etc., the system as a whole can continue to operate without complete failure.
 <br><br>
-On the other hand, Consistency (C) could guarantee that every user has the same view of the data at the same time. However, strong Consistency has to be sacrificed in favor of Availability and Partition Tolerance. It has to be accepted that various users do not always have immediate access to the latest version of the data.
+On the other hand, Consistency (C) could guarantee that every user has the same view of the data at the same time. However, strong Consistency has to be sacrificed in favor of Availability and Partition Tolerance.
+<br><br> 
+It has to be accepted that various users do not always have immediate access to the latest version of the data.
 
 ## Deployment-Diagram
 
