@@ -13,6 +13,9 @@ The five most important architectural constraints are:
 
 
 # System Scope and Context
+
+The system scope and context provides a concise overview of the project's boundaries, stakeholders, and operating environment. 
+
 ## Business Context Diagram
 ![alt text](images/businesscontextneu.png)
 
