@@ -209,7 +209,7 @@ This building-block-diagram on level 2 presents a more detailed perspective of t
 
 # Runtime View
 
-The runtime view of our system provides a dynamic perspective on the core functionalities related to image editing, and uploading.
+The runtime view section provides a dynamic perspective on the core functionalities related to image editing, and uploading.
 
 ## Runtime Scenario: Edit Image
 ![alt text](images/sequence2new.png)
