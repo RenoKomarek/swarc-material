@@ -202,17 +202,19 @@ This building-block-diagram on level 2 presents a more detailed perspective of t
 
 # Runtime View
 
-## Runtime Scenario: Upload Image
-![alt text](images/sequence1new.png)
 
-This runtime-view-diagram illustrates the dynamic aspects of the Upload Image-Process. It showcases how the components interact and collaborate at runtime. Here a user wants to upload an image to Finstergram.
-
-<div style="page-break-after: always;"></div>
 
 ## Runtime Scenario: Edit Image
 ![alt text](images/sequence2new.png)
 
 This runtime-view-diagram illustrates the dynamic aspects of the Edit Image-Process. It showcases how the components interact and collaborate at runtime. Here a user wants to edit an image using Finstergram.
+
+<div style="page-break-after: always;"></div>
+
+## Runtime Scenario: Upload Image
+![alt text](images/sequence1new.png)
+
+This runtime-view-diagram illustrates the dynamic aspects of the Upload Image-Process. It showcases how the components interact and collaborate at runtime. Here a user wants to upload an image to Finstergram.
 
 <div style="page-break-after: always;"></div>
 
