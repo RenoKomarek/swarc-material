@@ -241,7 +241,8 @@ Partition Tolerance (P) is important because it gives Finstergram the ability to
 <br><br>
 On the other hand, Consistency (C) could guarantee that every user has the same view of the data at the same time. However, strong Consistency has to be sacrificed in favor of Availability and Partition Tolerance.
 <br><br> 
-It has to be accepted that various users do not always have immediate access to the latest version of the data.
+In conclusion: <br>
+It is accepted that various users do not always have immediate access to the latest version of the data, in favor of having every user be able to use the platform at once despite potential network issues.
 
 ## Deployment-Diagram
 
