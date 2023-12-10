@@ -231,7 +231,7 @@ The deployment section outlines the strategy and procedures for introducing the 
 
 ## CAP
 
-The CAP theorem tells us that a distributed system can only provide two of the three desired properties: Consistency, Availability and Partition Tolerance.
+The CAP theorem tells that a distributed system can only provide two of the three desired properties: Consistency, Availability and Partition Tolerance.
 <br><br>
 Finstergram chooses Availability and Partition Tolerance (AP):
 <br><br>
