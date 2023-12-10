@@ -329,13 +329,13 @@ The three most important risks/technical depts are:
 
 
 - Data Management
- The influx of inconsistent data poses challenges in terms of organization and distribution. Ensuring the consistency and accuracy of data across the system becomes a complex task. Failure to manage data effectively can lead to data quality issues, potentially impacting decision-making and system performance.
+    - The influx of inconsistent data poses challenges in terms of organization and distribution. Ensuring the consistency and accuracy of data across the system becomes a complex task. Failure to manage data effectively can lead to data quality          issues, potentially impacting decision-making and system performance.
 
 - Security
-  Implementing security measures in each Microservice incurs significant costs. Additionally, securing sensitive data across multiple services is both cost and time-intensive.
+    - Implementing security measures in each Microservice incurs significant costs. Additionally, securing sensitive data across multiple services is both cost and time-intensive.
 
 - Complexity
- The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
+    - The increasing complexity of the architecture demands more resources for inter-service communication and the seamless integration of new services into the existing network. 
 
 
 <div style="page-break-after: always;"></div>
