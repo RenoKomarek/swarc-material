@@ -78,6 +78,8 @@ Lucas Rodriguez, Photography Expert, Snap & Shoot Magazine
 
 # Introduction and Goals
 
+Finstagram is a social media platform dedicated to high-resolution image sharing and dynamic content creation.
+
 ## Requirements Overview
 
 <div class="formalpara-title">
